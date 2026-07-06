@@ -1,0 +1,15 @@
+{
+	"name": "ADataFactory-Project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb65d7fe-eab1-4647-8137-27f82261bca9",
+		"tenantId": "ca7f7eaf-c10e-4494-9181-0129a946b83a"
+	}
+}
