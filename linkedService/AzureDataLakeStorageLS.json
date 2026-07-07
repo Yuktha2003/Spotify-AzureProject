@@ -1,0 +1,12 @@
+{
+	"name": "AzureDataLakeStorageLS",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://yukthaazurestorage.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDQxNzhBQTJELTJDRDAtNDU4Ri04QkIwLTJDMTMxNzM3NjhFN18wYzVhYWZlOC0yNzc0LTQ4OTktYmVlYy04MzNkMmQ0ODI1MzciDQp9"
+		}
+	}
+}
